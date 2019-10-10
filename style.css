@@ -1,0 +1,16 @@
+.ui.borderless.topmenu.menu {
+  background-color: white;
+  box-shadow: none;
+  border: none;
+  color: #00b6cc !important ;
+}
+
+.text {
+  color:#00b6cc
+}
+
+.ui.three.column.grid {
+
+  color: #00b6cc;
+   padding: 10px;
+}
